@@ -1,6 +1,6 @@
 # MyApp
 
-This is a demo app built to showcase Android concept:
+This is a demo app built to showcase Android frameworks and concepts:
 * ConstraintLayout
 * ViewBinding
 * RecyclerView
